@@ -48,7 +48,7 @@ Route::controller('iletisim','Backend_IletisimController');
 Route::controller('hakkimizda','Backend_HakkimizdaController');
 Route::controller('kategori','Backend_KategoriController');
 Route::controller('makinadetay','Backend_MakinadetayController');
-Route::controller('makale','Backend_MakaleController');
+//Route::controller('makale','Backend_MakaleController');
 Route::controller('resim','Backend_ResimController');
 });
 
